@@ -1,3 +1,7 @@
+build/openresty
+
+*.apk
+
 # Compiled Lua sources
 luac.out
 
